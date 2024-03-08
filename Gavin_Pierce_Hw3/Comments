@@ -1,2 +1,13 @@
 Gavin Pierce
 ~~~~~~~~~~~~~
+With challenge 2 I struggled to figure out how to layer my catcher so I could place
+paper to fill my trash so instead I did a smiley face when you clicked and in the next 
+challenge after creating my paper I figured out how to layer the trashcan and was able 
+to make it appear filled by paper when clicked which I am quite proud of
+
+In challenge 3 I struggled to make my paper stay in existence long enough but after 
+asking for help I was able to make my paper not disapear at the end of the draw loop
+
+In challenge 5 it took me a while to understand how to use the dist function and where 
+I am supposed to put it but I was able to eventually figure out a spot for it that 
+worked by checking each syntax error
